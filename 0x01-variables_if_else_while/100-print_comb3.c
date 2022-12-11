@@ -19,7 +19,7 @@ putchar(l_d);
 if (c != 89)
 {
 putchar(',');
-putchar(' ')
+putchar(' ');
 }}
 c++;
 }
