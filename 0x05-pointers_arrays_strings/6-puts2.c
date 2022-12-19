@@ -4,8 +4,7 @@
  * @str: the string to print
  *
  */
-void puts2(char *str) 
-{
+void puts2(char *str){
 int i;
 int j;
 for (i = 0 ; str[i] != '\0' ; i++)
