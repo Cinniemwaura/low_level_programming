@@ -18,7 +18,7 @@ haystack++;
 }
 if (!*needle != '\0')
 {
-return (duplicate);	  
+return (duplicate);
 }
 haystack++;
 }

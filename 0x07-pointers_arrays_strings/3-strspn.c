@@ -17,7 +17,7 @@ for (letter = 0; accept[letter]; letter++)
 if (accept[letter] == s[pos])
 {
 break;
-} 
+}
 }
 if (!accept[letter])
 {
