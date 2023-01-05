@@ -1,6 +1,6 @@
 #include "main.h"
   /**
-   * 0_puts_recursion-prints a string, followed by a new line.
+   * 0_puts_recursion - prints a string, followed by a new line.
    *@s :string
    *
    *Return 1 on success
